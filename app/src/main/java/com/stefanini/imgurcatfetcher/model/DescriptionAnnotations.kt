@@ -1,0 +1,3 @@
+package com.stefanini.imgurcatfetcher.model
+
+class DescriptionAnnotations
